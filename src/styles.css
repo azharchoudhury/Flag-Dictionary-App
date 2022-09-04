@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0rem;
+  box-sizing: border-box;
+}
+
+.App {
+  font-family: "PT Serif", serif;
+  text-align: center;
+}
+
+input {
+  padding: 0.75rem 1rem;
+  width: 300px;
+  font-size: 1rem;
+  border-width: "2px";
+  text-align: center;
+  font-size: 2rem;
+}
+
+::placeholder {
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+.output {
+  color: black;
+}
